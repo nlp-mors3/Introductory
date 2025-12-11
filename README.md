@@ -25,7 +25,7 @@ The Cordillera Administrative Region (CAR) is home to rich ethnolinguistic group
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. Digital Lexicon
 A searchable database containing over **1,500+ entries**. It serves as the core linguistic resource for the project.
@@ -60,7 +60,7 @@ An integrated document viewer that presents our full study, *"Constructing a Str
 
 ---
 
-## 🔮 Message to Future Researchers & Contributors
+## Message to Future Researchers & Contributors
 
 To the students, developers, and linguists who may inherit or fork this repository:
 
