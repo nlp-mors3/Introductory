@@ -5,6 +5,8 @@
 ## 🔗 Quick Links
 * **Live Website:** [https://ibaloinlp.vercel.app/](https://ibaloinlp.vercel.app/)
 * **Repository:** [https://github.com/nlp-mors3/Morse_RASA](https://github.com/nlp-mors3/Morse_RASA)
+* **Paper:** [https://ibaloinlp.vercel.app/research-paper](https://github.com/nlp-mors3/Morse_RASA)
+
 
 ---
 
@@ -13,6 +15,8 @@
 The Cordillera Administrative Region (CAR) is home to rich ethnolinguistic groups, yet languages like **Ibaloi** remain underrepresented in modern technological applications. While traditional dictionaries exist, they often lack the structure required for computational processing.
 
 **The Ibaloi NLP Lexicon System** bridges this gap. It is an academic initiative designed to create a structured, machine-readable lexicon dataset compatible with NLP processes. The system aims to support future applications such as machine translation, chatbots, and digital cultural preservation.
+
+![Web-agent IMG Preview](web-preview.png)
 
 ### Key Objectives
 * **Construct a Digital Lexicon:** A structured database of Ibaloi vocabulary with English translations, POS tagging, and phonetic respelling.
@@ -25,6 +29,9 @@ The Cordillera Administrative Region (CAR) is home to rich ethnolinguistic group
 
 ### 1. Digital Lexicon
 A searchable database containing over **1,500+ entries**. It serves as the core linguistic resource for the project.
+
+![Lexicon IMG Preview](lexicon.png)
+
 * **Structured Data:** Includes variants, simplified pronunciation (adapted from Google/Oxford conventions), part of speech (POS), and synonyms.
 * **Search Interface:** Allows users to filter by Ibaloi word, English translation, or spelling variants.
 
@@ -46,9 +53,9 @@ An integrated document viewer that presents our full study, *"Constructing a Str
 
 ## 🛠️ Technology Stack
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend/API:** Node.js, JSON handling
-* **NLP Framework:** RASA, Gemini 2.5 Open Source Framework
+* **Frontend:** Tailwind
+* **Backend/API:** Flask, Google Scripts
+* **NLP Framework:** Lexicon, Gemini 2.5 Open Source Framework
 * **Deployment:** Vercel
 
 ---
@@ -75,17 +82,8 @@ Please treat the data with respect to the culture it represents. Ensure that any
 
 **Saint Louis University** - School of Computing and Information Sciences
 
-| Member Email            | Member Name              | Role          | 
-| :---------------------- | :----------------------- | :-----------: | 
-| ddmiguel@slu.edu.ph     | Miguel Dalos             | Advisor       | 
-| 2227226@slu.edu.ph      | Xymond Louisse Alcazar   | Researcher    |
-| 2195465@slu.edu.ph      | Rafael Lachica           | Researcher    |
-| 2212637@slu.edu.ph      | Cheni Lei Olanos         | Researcher    |
-| 2233059@slu.edu.ph      | Josiah Ezra Navarro      | Researcher    |
-| 2225254@slu.edu.ph      | Prince John Louie Lucban | Researcher    |
-| 2235110@slu.edu.ph      | John Henrich Collo       | Researcher    |
-| 2214959@slu.edu.ph      | Ka Hang Christian Yuen   | Researcher    |
+![TEAM IMG Preview](team.png)
 
 ---
 
-*© 2025 NLP Team Mors3. All rights reserved.*
+*© 2025 NLP Team Mors3. Saint Louis University. All rights reserved.*
