@@ -75,13 +75,16 @@ Please treat the data with respect to the culture it represents. Ensure that any
 
 **Saint Louis University** - School of Computing and Information Sciences
 
-* **Alcazar, Xymond Louisse**
-* **Lucban, Prince John Louie**
-* **Collo, John Henrich**
-* **Navarro, Josiah Ezra**
-* **Yuen, Ka Hang Christian**
-* **Lachica, Rafael**
-* **Olanos, Cheni Lei**
+| Member Email            | Member Name              | Role          | 
+| :---------------------- | :----------------------- | :-----------: | 
+| ddmiguel@slu.edu.ph     | Miguel Dalos             | Advisor       | 
+| 2227226@slu.edu.ph      | Xymond Louisse Alcazar   | Researcher    |
+| 2195465@slu.edu.ph      | Rafael Lachica           | Researcher    |
+| 2212637@slu.edu.ph      | Cheni Lei Olanos         | Researcher    |
+| 2233059@slu.edu.ph      | Josiah Ezra Navarro      | Researcher    |
+| 2225254@slu.edu.ph      | Prince John Louie Lucban | Researcher    |
+| 2235110@slu.edu.ph      | John Henrich Collo       | Researcher    |
+| 2214959@slu.edu.ph      | Ka Hang Christian Yuen   | Researcher    |
 
 ---
 
